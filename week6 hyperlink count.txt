@@ -1,0 +1,17 @@
+week6 hyperlink count
+
+pip install requests beautifulsoup4
+
+import requests
+from bs4 import BeautifulSoup
+
+def count_hyperlinks(url):
+response = requests.get(url)
+soup = BeautifulSoup(response.content, 'html.parser')
+# Find all <a> tags (hyperlinks)
+hyperlinks = soup.find_all('a')
+return len(hyperlinks)
+
+url = "https://www.google.com" 
+link_count = count_hyperlinks(url)
+print(f"Total number of hyperlinks on {url}: {link_count}")

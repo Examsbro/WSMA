@@ -1,0 +1,12 @@
+week1 Analyze any Website Traffic Using Google Analytics Tool.
+Step-1: Open Chrome Browser -> Search Google Sites-> Login on google sites using your Gmail id.
+Step-2:click on Template gallery ->Scroll down and select Student Portfolio
+Step-3:Now Write down your Sites Name and write your name (i.e. site_name: MyWebsite, Your_name: My name is <name>) and Update all things as per your Choice.
+Step-4: Add button and social links and another content as per your choice.
+Step-5: Now Click on Publish button and publish your sites -> after that click on view and copy the link -> paste copied link in another browser or open in your phone.
+Step-6: Now Search Google Analytics in Chrome Browser ->Click on first link -> Click on Get ready to start, It will show 5 Steps for Account setup
+Step-7: First Write down your Account Name and scroll down and select all option, click on Next Button -> Write down property Name and select time zone India and currency Indian Rupee click on Next ->Select anyone From option Select One -> Select Small and click on Next -> Select Others and Click on Create -> Select India and Scroll Down Terms and conditions and click on I accept -> Now it will show start collecting data and Chose a platform.
+Step-8: Select Web Option in chose a platform option ->It will show a Setup data stream -> Write your Website URL as per your choice, and write Stream Name as per your choice -> Click on Create and Continue.
+Step-9: After click on Create and Continue it will show a Option Test and Install, Just Cut that option -> It will automatically show a Web Stream Details with some data -> Now Copy your Measurement Id -> After copying the Measurement Id Close the option and Paste in the notepad
+Step-10: Now Again Open your Google sites page -> Click on Setting -> Click on Analytics -> Paste your Measurement Id in Measurement id Option and close the Dialog box -> Click on Publish option Again
+Step-11: Now Open your Google Analytics tool again -> Select your account -> Analyze the Traffic

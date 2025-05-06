@@ -1,0 +1,12 @@
+week9 work management asana tool
+
+Step-1: Search Asana on any browser and Create an account. And login your accout
+Step-2: After login it will show dashboard, Click on Create and Select Project.
+Step-3: Select Blank project -> Type Project name -> click on Continue
+Step-4: Chose your Project View and click on Create a Project.
+Step-5: You able to see your project are created in Left side option -> Click on project -> Click on Add task -> Write your task name -> Set Assignee -> Set Due Date or timeline -> Set
+Description and Comment also.
+Step-6: Now you able to see, your task is added and sends it to assignee -> Click on Dashboard and track your task is completed or not
+Step-7: Click on Board and Create a Board with some stages. (e.g. Todo, Doing, In Review and
+Done)
+Step-8: Now Wait for Task Completion. Whenever assignee completes your task, it is automatically show completed in Dashboard and it will show inactive in timeline.

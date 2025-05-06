@@ -1,0 +1,21 @@
+week12 google business
+
+Step-1: Sign in to Google and Search Google business
+Step-2: Go to Google Business Profile page and Click on get started and mention your business name.
+Step-3: Select Business Category as a “Local Store” and click on next.
+Step-4: Select Business Category -> Choose the category that best describes your business. For example:
+Restaurant ,Retail Store, Hair Salon, Law Firm ,Consulting Agency Select Any option as per your business details.
+Step-5: Add Business Address and Next.
+Step-6: Now it will show “Is this your Business” Select none of These” and click on next.
+Step-7: Add Map Location and click on Next
+Step-8: Add phone Number and Websites details if you have, and Next.
+Step-9: Select Business on Map and click on continue
+Step-10: Now Verify your Business using phone verification or Business video verification.
+Step-11: Select Phone verification and Next.
+Step-12: Select Text Message Verification click on Next, you will get 6-Digit OTP, Verify your OTP and click on Next.
+Step-13: Now Add business Day, Time and Hour open and Closed Time and Click on Next.
+Step-14: Add dinning mode like. Dine-in, Takeout, Delivery, No-Contact delivery etc. information and click on Next.
+Step-15: Add Business and dining description and click on Next.
+Step-16: Add Business Image or Logo (Create an Image using AI and Upload) and click on Next
+Step-17: Add Menu photo if you have, Otherwise click on skip, Add Dishes photo if you have otherwise click on Skip, It will show Advertise Credit skip this part also.
+Step-18: It will show Custom Domain Address option on google space click on skip. It will show like given image Option. Now it’s ready for verification, Once Google verify it, It will be visible for customers. Google will take 24 to 48 hour for Verification and then google give a blue tick to your business.

@@ -1,0 +1,10 @@
+week3 whois
+
+Step-1: Open Any Web Browser.
+Step-2: Search WHOIS.com. ->open first website name as whois.com.
+Step-3: Open First link and you will see the WHOIS websites with a search bar.
+Step-4: Write any domain name or IP Address in Search option and click on search button.
+Step-5: Now you will see all the details of the given domain.
+Step-6: Note Down the Registration Details. Check the registration date to understand how long the domain has been active.
+Step-7: Registrar Information- Examine the Registered owner name, email, address and contact details.
+Step-8: Administrative and Technical Contact- Review the contact information for individuals managing the domain administrative and technical aspects.

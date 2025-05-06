@@ -1,0 +1,12 @@
+week13 social media business page
+
+Step-1: login or Sign in to Facebook
+Step-2: Click on 9 dots in right corner  select page option.
+Step-3: Now Click on Create new profile or page  Select Public option and click on Next  click on get started.
+Step-4: Now mention your Page name and Page Category and Page Bio  click on Create Page.e.g. Page Name: Resto Hyderabad, Page Category: Restaurant, Bio: We serve all types of dishes
+Step-5: Now add your website, phone number, Email_id, Address and Restaurant working hour  click on next. e.g. website: restohyderabad.in, phone: 123456789, mail: resto@gmail.com, address: secundrabad etc.
+Step-6: Now add profile picture and cover photo after that you have an option to customize  our service Using Add action button, you can customize after that click on Next
+Step-7: Now add Whatsapp number to connect your business to whatsapp account directly  Verify whatsapp number using OTP.
+Step-8: Click on next and invite your friends using Invite friends Option  click on Next and  Click on done 
+ Now your Business page is Ready, Now you can customize as per your Need, Daily Dishes and Time Table.
+ Note: You can Create a Same social Media Page on other Social sites like Instagram, Twitter, Whatsapp etc.

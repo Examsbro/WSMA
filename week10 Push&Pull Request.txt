@@ -1,0 +1,32 @@
+week10 Push&Pull Request
+
+Step-1: Create a GitHub Repository and copy your repository URL.
+Step-2: Create a folder and create a file inside that folder
+Step-3: Open that folder with git bash command prompt, and upload that folder on created repository with the help of given command.
+ git init
+ git status
+ git add .
+ git status
+ git commit -m "main branch"
+ git remote add origin <URL>
+ git push -u origin master
+Step-4: Now check your file is uploaded or not on your Git Repository.
+Step-5: After that copy the link of uploaded repository, and open in new page and create
+a fork of that repository.
+Step-6: Copy the fork Repository URL and clone a repository in same Git bash
+command prompt with the help of given commnd and follow the another command after
+that:
+ git clone https://github.com/Gitmohsin/pull-request.git 
+ cd pull-request/ 
+ git checkout -b new_branch 
+ git branch #Check the Branch
+ vim <file_name> #Open file in vim editor and update and Save with :wq! command
+ git status 
+ git add demo.txt 
+ git commit -m "updated file" 
+ git remote set-url origin <URL> 
+ git push --set-upstream origin newbranch 
+Step-7: Now check your main repo and Update your pull Request with new Branch
+Step-8: Compare the branch data and Merge the branch
+Step-9: Now Delete the new branch.
+Step-10: Check Once main Branch is Updated or not. 
