@@ -1,0 +1,11 @@
+week5 Write the given steps in your lab manual. The provided image is just for your better understanding.
+
+Step-1: Open your websites and google analytics
+Step-2: In a google analytics -> click on admin -> Data Display -> Events -> create an Events and add portfolio page details
+Step-3: Now open any page of your website and check the page details using tag Assistant.
+Step-4: Now open any tool for keyword research and perform Keyword search.
+Step-5: Check page speed and Page insight using external tool like Debugbear.
+Step-6: Check whether your website is different screen responsive or not.
+A. Open your website.
+B. Right click on any page and open inspect.
+C. Check your Screen Compatibility.

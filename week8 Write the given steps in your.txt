@@ -1,0 +1,21 @@
+week8 Write the given steps in your lab manual. The provided image is just for your better understanding.
+
+Step-1: Download and install powerBI.
+Step-2: Import stock market data if you have otherwise download from Yahoo finance, Quandl etc..
+Or
+Download from this link ( ).
+Step-3: Import data into powerBI -> Go to Home > Get Data > Text/CSV
+Step-4: Clean and pre-process the data -> Click on transform data and open the Power Query Editor. After that we can clean and preprocess the data.
+Step-5: Visualize historical stock data -> Create line chart -> adjust time series
+A. Select report view
+B. Select line chart.
+C. Select date and drag the close report.
+Step-6: Add forecasting model and adjust forecasting
+A. Select add Add further analysis
+B. Enable forecasting and set the length according to your choice
+Step-7: Analyze forecast data and compare with another data.
+Step-8: Visualize the forecast data with other indicator
+A. Move Average
+B. Move High
+C. Move Low
+Step-9: Publish the report.

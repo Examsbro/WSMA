@@ -1,0 +1,12 @@
+week-4-Count visitor profiles using Google analytics.
+
+Step-1: Setup or login your google analytics accounts.
+Step-2: Click on Admin Icon -> Click on data Display -> Click on Audience -> Now you can check your all Audience Report that you created earlier.
+Step-3: Now Come back one step -> click on new Audience -> Click on Create custom audience -> give a name of custom audience -> Click on Add New Condition -> Select Demographics -> Select Age -> Click on filter and select all filter type -> Click on apply -> click on And -> Select Gender -> click on filter -> select all gender -> Click on apply -> click on Add -> Again Select Interest -> Search and Select Technology -> Click on apply -> and Last one again click on And -> Select Interest in a market audience -> select technology -> Click on apply (You can select more than one)
+Step-4: After that click on Report -> click on data display -> Click on Audience -> and count the device category and platform.
+Step-5: After that click on Realtime Overview -> find Geo-graphics Location.
+Step-6: Now Click on User Attributes -> Click on Demographics Details.
+Step-7: Now Click on Home -> Count Visitor Profile.
+Step-8: Again Click on Admin -> Click on Data Display -> Click on Audience -> Download the data
+Step-9: Now take a new Page and Search GA4 Demo account and Open -> Scrool that page and open Google Analytics 4 Property: Google Merchandise Store (web data).
+Step-10: Perform all operation that you performed in your personal Portfolio and Compare all User from your Personal Portfolio.
