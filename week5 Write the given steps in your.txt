@@ -1,4 +1,4 @@
-week5 Write the given steps in your lab manual. The provided image is just for your better understanding.
+week5 Analyze key SEO parameters of a travel website
 
 Step-1: Open your websites and google analytics
 Step-2: In a google analytics -> click on admin -> Data Display -> Events -> create an Events and add portfolio page details
