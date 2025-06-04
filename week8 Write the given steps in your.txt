@@ -1,4 +1,4 @@
-week8 Write the given steps in your lab manual. The provided image is just for your better understanding.
+week8 Perform stock market prediction of any share using past trends.
 
 Step-1: Download and install powerBI.
 Step-2: Import stock market data if you have otherwise download from Yahoo finance, Quandl etc..
